@@ -1,5 +1,17 @@
-# 💫 About Me:
-👋 Hi, I'm Syed Minhaj Naqvi<br><br>🔭 I'm currently working on web applications and UI/UX designs and<br>developing a react native based mobile app for autism detection as my fyp.<br>🌱 professional in React, Tailwind CSS, and advanced frontend development<br>👯 I'm looking to collaborate on web development and design projects<br>💬 Ask me about HTML, CSS, JavaScript, React, Python, Figma, or Database Design<br>📫 How to reach me: minhajnaqvi83@gmail.com<br>⚡ Fun fact: I love combining creative design with functional code
+# 💫 About Me
+
+👋 Hi, I'm **Syed Minhaj Naqvi**
+💻 **AI & Web Developer** passionate about building smart and user-friendly applications
+🌱 Skills & Interests:
+* React & Tailwind CSS
+* JavaScript & Python
+* Artificial Intelligence & Machine Learning
+* UI/UX Design (Figma)
+* Database Design
+👯 Open to collaboration on **AI, Web, and Mobile App Projects**
+💬 Ask me about **Web Development, AI, Frontend, or UI/UX**
+📫 Email: **[minhajnaqvi83@gmail.com](mailto:minhajnaqvi83@gmail.com)**
+⚡ *Fun fact:* I enjoy combining creativity with technology to build meaningful solutions.
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Syed Minhaj Panjtani) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Minhaj panjtani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minhaj_naqvi64) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@minhaj shah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minhajnaqvi83@gmail.com) 
