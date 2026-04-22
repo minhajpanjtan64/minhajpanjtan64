@@ -14,7 +14,7 @@
 ⚡ *Fun fact:* I enjoy combining creativity with technology to build meaningful solutions.
 
 ## 🌐 Socials:
-[![linkedin](www.linkedin.com/in/syed-minhaj-panjtan-a56b99290)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Syed Minhaj Panjtan)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Minhaj panjtani) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minhaj_naqvi64) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@minhaj shah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:minhajnaqvi83@gmail.com) 
 
 # 💻 Tech Stack:
