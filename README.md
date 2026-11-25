@@ -1,7 +1,7 @@
 # 💫 About Me
 
 👋 Hi, I'm **Syed Minhaj Naqvi**
-💻 **AI & Web Developer** passionate about building smart and user-friendly applications
+💻 **web developer** passionate about building smart and user-friendly applications with hand on experience in Devops
 🌱 Skills & Interests:
 * React & Tailwind CSS
 * JavaScript & Python
